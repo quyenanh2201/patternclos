@@ -1,0 +1,34 @@
+.news{
+    border: 1px solid black;
+    margin: 10px;
+    width: 650px; 
+    display: inline-block 
+}
+.News{
+        border: 1px solid black;
+        margin: 10px;
+        width: 650px;  
+}
+
+h2{
+    text-align: center;
+    margin: 5px;
+    
+}
+p{
+    margin: 20px;
+}
+
+.bot{
+    background-color: rgb(135, 233, 236);
+    height: 2.25cm;
+    width: 17.20cm;
+    
+}
+.middle{
+    background-color: rgb(135, 233, 236);
+    height: 3cm;
+    width: 17.25cm;
+    margin: auto;
+    text-align: center;
+}
